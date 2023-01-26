@@ -1,0 +1,11 @@
+name: iptds-planning
+title:
+username:
+account: nptfisheries
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7999926
+bundleId: 6778797
+url: https://nptfisheries.shinyapps.io/iptds-planning/
+when: 1674773474.85852
+lastSyncTime: 1674773474.85852
